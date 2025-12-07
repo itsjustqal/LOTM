@@ -1,0 +1,360 @@
+{
+  "name": "LOTM",
+  "paths": [
+    {
+      "name": "Seer Pathway",
+      "sequences": [
+        {"level": 9, "title": "Seer", "category": "Low Sequence"},
+        {"level": 8, "title": "Clown", "category": "Low Sequence"},
+        {"level": 7, "title": "Magician", "category": "Mid Sequence"},
+        {"level": 6, "title": "Faceless", "category": "Mid Sequence"},
+        {"level": 5, "title": "Marionettist", "category": "Mid Sequence"},
+        {"level": 4, "title": "Bizzaro Sorcerer", "category": "Saint"},
+        {"level": 3, "title": "Scholar of Yore", "category": "Saint"},
+        {"level": 2, "title": "Miracle Invoker", "category": "Angel"},
+        {"level": 1, "title": "Attendant of Mysteries", "category": "Angel"},
+        {"level": 0, "title": "Fool", "category": "True God"},
+        {"level": -1, "title": "Lord of Mysteries", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Marauder Pathway",
+      "sequences": [
+        {"level": 9, "title": "Marauder", "category": "Low Sequence"},
+        {"level": 8, "title": "Swindler", "category": "Low Sequence"},
+        {"level": 7, "title": "Cryptologist", "category": "Mid Sequence"},
+        {"level": 6, "title": "Prometheus", "category": "Mid Sequence"},
+        {"level": 5, "title": "Dream Stealer", "category": "Mid Sequence"},
+        {"level": 4, "title": "Parasite", "category": "Saint"},
+        {"level": 3, "title": "Mentor of Deceit", "category": "Saint"},
+        {"level": 2, "title": "Trojan Horse of Destiny", "category": "Angel"},
+        {"level": 1, "title": "Worm of Time", "category": "Angel"},
+        {"level": 0, "title": "Error", "category": "True God"},
+        {"level": -1, "title": "Lord of Mysteries", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Apprentice Pathway",
+      "sequences": [
+        {"level": 9, "title": "Apprentice", "category": "Low Sequence"},
+        {"level": 8, "title": "Trickmaster", "category": "Low Sequence"},
+        {"level": 7, "title": "Astrologer", "category": "Mid Sequence"},
+        {"level": 6, "title": "Scribe", "category": "Mid Sequence"},
+        {"level": 5, "title": "Traveler", "category": "Mid Sequence"},
+        {"level": 4, "title": "Secrets Sorcerer", "category": "Saint"},
+        {"level": 3, "title": "Wanderer", "category": "Saint"},
+        {"level": 2, "title": "Planeswalker", "category": "Angel"},
+        {"level": 1, "title": "Key of Stars", "category": "Angel"},
+        {"level": 0, "title": "Door", "category": "True God"},
+        {"level": -1, "title": "Lord of Mysteries", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Spectator Pathway",
+      "sequences": [
+        {"level": 9, "title": "Spectator", "category": "Low Sequence"},
+        {"level": 8, "title": "Telepathist", "category": "Low Sequence"},
+        {"level": 7, "title": "Pyschiatrist", "category": "Mid Sequence"},
+        {"level": 6, "title": "Hypnotist", "category": "Mid Sequence"},
+        {"level": 5, "title": "Dreamwalker", "category": "Mid Sequence"},
+        {"level": 4, "title": "Manipulator", "category": "Saint"},
+        {"level": 3, "title": "Dreamweaver", "category": "Saint"},
+        {"level": 2, "title": "Discerner", "category": "Angel"},
+        {"level": 1, "title": "Author", "category": "Angel"},
+        {"level": 0, "title": "Visionary", "category": "True God"},
+        {"level": -1, "title": "God Almighty", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Bard Pathway",
+      "sequences": [
+        {"level": 9, "title": "Bard", "category": "Low Sequence"},
+        {"level": 8, "title": "Light Suppliant", "category": "Low Sequence"},
+        {"level": 7, "title": "Solar High Priest", "category": "Mid Sequence"},
+        {"level": 6, "title": "Notary", "category": "Mid Sequence"},
+        {"level": 5, "title": "Priest of Light", "category": "Mid Sequence"},
+        {"level": 4, "title": "Unshadowed", "category": "Saint"},
+        {"level": 3, "title": "Justice Mentor", "category": "Saint"},
+        {"level": 2, "title": "Lightseeker", "category": "Angel"},
+        {"level": 1, "title": "White Angel", "category": "Angel"},
+        {"level": 0, "title": "Sun", "category": "True God"},
+        {"level": -1, "title": "God Almighty", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Sailor Pathway",
+      "sequences": [
+        {"level": 9, "title": "Sailor", "category": "Low Sequence"},
+        {"level": 8, "title": "Folk of Rage", "category": "Low Sequence"},
+        {"level": 7, "title": "Seafarer", "category": "Mid Sequence"},
+        {"level": 6, "title": "Wind-Blessed", "category": "Mid Sequence"},
+        {"level": 5, "title": "Ocean Songster", "category": "Mid Sequence"},
+        {"level": 4, "title": "Catalysmic Interrer", "category": "Saint"},
+        {"level": 3, "title": "Sea King", "category": "Saint"},
+        {"level": 2, "title": "Calamity", "category": "Angel"},
+        {"level": 1, "title": "Thunder God", "category": "Angel"},
+        {"level": 0, "title": "Tyrant", "category": "True God"},
+        {"level": -1, "title": "God Almighty", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Reader Pathway",
+      "sequences": [
+        {"level": 9, "title": "Reader", "category": "Low Sequence"},
+        {"level": 8, "title": "Student of Ratiocination", "category": "Low Sequence"},
+        {"level": 7, "title": "Detective", "category": "Mid Sequence"},
+        {"level": 6, "title": "Polymath", "category": "Mid Sequence"},
+        {"level": 5, "title": "Mysticism Magister", "category": "Mid Sequence"},
+        {"level": 4, "title": "Prophet", "category": "Saint"},
+        {"level": 3, "title": "Cognizer", "category": "Saint"},
+        {"level": 2, "title": "Wisdom Angel", "category": "Angel"},
+        {"level": 1, "title": "Omniscient Eye", "category": "Angel"},
+        {"level": 0, "title": "White Tower", "category": "True God"},
+        {"level": -1, "title": "God Almighty", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Secret Suppliant Pathway",
+      "sequences": [
+        {"level": 9, "title": "Secret Suppliant", "category": "Low Sequence"},
+        {"level": 8, "title": "Listener", "category": "Low Sequence"},
+        {"level": 7, "title": "Shadow Ascetic", "category": "Mid Sequence"},
+        {"level": 6, "title": "Rose Bishop", "category": "Mid Sequence"},
+        {"level": 5, "title": "Shepherd", "category": "Mid Sequence"},
+        {"level": 4, "title": "Black Knight", "category": "Saint"},
+        {"level": 3, "title": "Trinity Templar", "category": "Saint"},
+        {"level": 2, "title": "Profane Presbyter", "category": "Angel"},
+        {"level": 1, "title": "Dark Angel", "category": "Angel"},
+        {"level": 0, "title": "Hanged Man", "category": "True God"},
+        {"level": -1, "title": "God Almighty", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Sleepless Pathway",
+      "sequences": [
+        {"level": 9, "title": "Sleepless", "category": "Low Sequence"},
+        {"level": 8, "title": "Midnight Poet", "category": "Low Sequence"},
+        {"level": 7, "title": "Nightmare", "category": "Mid Sequence"},
+        {"level": 6, "title": "Soul Assurer", "category": "Mid Sequence"},
+        {"level": 5, "title": "Spirit Warlock", "category": "Mid Sequence"},
+        {"level": 4, "title": "Nightwatcher", "category": "Saint"},
+        {"level": 3, "title": "Horror Bishop", "category": "Saint"},
+        {"level": 2, "title": "Servant of Concealment", "category": "Angel"},
+        {"level": 1, "title": "Knight of Misfortune", "category": "Angel"},
+        {"level": 0, "title": "Darkness", "category": "True God"},
+        {"level": -1, "title": "Eternal Darkness", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Corpse Collector Pathway",
+      "sequences": [
+        {"level": 9, "title": "Corpse Collector", "category": "Low Sequence"},
+        {"level": 8, "title": "Gravedigger", "category": "Low Sequence"},
+        {"level": 7, "title": "Spirit Medium", "category": "Mid Sequence"},
+        {"level": 6, "title": "Spirit Guide", "category": "Mid Sequence"},
+        {"level": 5, "title": "Gatekeeper", "category": "Mid Sequence"},
+        {"level": 4, "title": "Undying", "category": "Saint"},
+        {"level": 3, "title": "Ferryman", "category": "Saint"},
+        {"level": 2, "title": "Death Consul", "category": "Angel"},
+        {"level": 1, "title": "Pale Emperor", "category": "Angel"},
+        {"level": 0, "title": "Death", "category": "True God"},
+        {"level": -1, "title": "Eternal Darkness", "category": "Great Old One"}
+      ]
+    },
+
+   
+
+    {
+      "name": "Warrior Pathway",
+      "sequences": [
+        {"level": 9, "title": "Warrior", "category": "Low Sequence"},
+        {"level": 8, "title": "Pugilist", "category": "Low Sequence"},
+        {"level": 7, "title": "Weapon Master", "category": "Mid Sequence"},
+        {"level": 6, "title": "Dawn Paladin", "category": "Mid Sequence"},
+        {"level": 5, "title": "Guardian", "category": "Mid Sequence"},
+        {"level": 4, "title": "Demon Hunter", "category": "Saint"},
+        {"level": 3, "title": "Silver Knight", "category": "Saint"},
+        {"level": 2, "title": "Glory", "category": "Angel"},
+        {"level": 1, "title": "Hand of God", "category": "Angel"},
+        {"level": 0, "title": "Twilight Giant", "category": "True God"},
+        {"level": -1, "title": "Eternal Darkness", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Assassin Pathway",
+      "sequences": [
+        {"level": 9, "title": "Assassin", "category": "Low Sequence"},
+        {"level": 8, "title": "Instigator", "category": "Low Sequence"},
+        {"level": 7, "title": "Witch", "category": "Mid Sequence"},
+        {"level": 6, "title": "Pleasure", "category": "Mid Sequence"},
+        {"level": 5, "title": "Affliction", "category": "Mid Sequence"},
+        {"level": 4, "title": "Despair", "category": "Saint"},
+        {"level": 3, "title": "Unaging", "category": "Saint"},
+        {"level": 2, "title": "Catastrophe", "category": "Angel"},
+        {"level": 1, "title": "Apocalypse", "category": "Angel"},
+        {"level": 0, "title": "Demoness", "category": "True God"},
+        {"level": -1, "title": "Calamity of Destruction", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Hunter Pathway",
+      "sequences": [
+        {"level": 9, "title": "Hunter", "category": "Low Sequence"},
+        {"level": 8, "title": "Provoker", "category": "Low Sequence"},
+        {"level": 7, "title": "Pyromaniac", "category": "Mid Sequence"},
+        {"level": 6, "title": "Conspirer", "category": "Mid Sequence"},
+        {"level": 5, "title": "Reaper", "category": "Mid Sequence"},
+        {"level": 4, "title": "Iron-Blooded Knight", "category": "Saint"},
+        {"level": 3, "title": "War Bishop", "category": "Saint"},
+        {"level": 2, "title": "Weather Warlock", "category": "Angel"},
+        {"level": 1, "title": "Conqueror", "category": "Angel"},
+        {"level": 0, "title": "Red Priest", "category": "True God"},
+        {"level": -1, "title": "Calamity of Destruction", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Mystery Pryer Pathway",
+      "sequences": [
+        {"level": 9, "title": "Mystery Pryer", "category": "Low Sequence"},
+        {"level": 8, "title": "Melee Scholar", "category": "Low Sequence"},
+        {"level": 7, "title": "Warlock", "category": "Mid Sequence"},
+        {"level": 6, "title": "Scrolls Professor", "category": "Mid Sequence"},
+        {"level": 5, "title": "Constellations Master", "category": "Mid Sequence"},
+        {"level": 4, "title": "Mysticologist", "category": "Saint"},
+        {"level": 3, "title": "Clairvoyant", "category": "Saint"},
+        {"level": 2, "title": "Sage", "category": "Angel"},
+        {"level": 1, "title": "Knowledge Emperor", "category": "Angel"},
+        {"level": 0, "title": "Hermit", "category": "True God"},
+        {"level": -1, "title": "Demon of Knowledge", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Savant Pathway",
+      "sequences": [
+        {"level": 9, "title": "Savant", "category": "Low Sequence"},
+        {"level": 8, "title": "Archaeologist", "category": "Low Sequence"},
+        {"level": 7, "title": "Appraiser", "category": "Mid Sequence"},
+        {"level": 6, "title": "Artisan", "category": "Mid Sequence"},
+        {"level": 5, "title": "Astronomer", "category": "Mid Sequence"},
+        {"level": 4, "title": "Alchemist", "category": "Saint"},
+        {"level": 3, "title": "Arcane Scholar", "category": "Saint"},
+        {"level": 2, "title": "Knowledge Magister", "category": "Angel"},
+        {"level": 1, "title": "Illuminator", "category": "Angel"},
+        {"level": 0, "title": "Paragon", "category": "True God"},
+        {"level": -1, "title": "Demon of Knowledge", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Monster Pathway",
+      "sequences": [
+        {"level": 9, "title": "Monster", "category": "Low Sequence"},
+        {"level": 8, "title": "Robot", "category": "Low Sequence"},
+        {"level": 7, "title": "Lucky One", "category": "Mid Sequence"},
+        {"level": 6, "title": "Calamity Priest", "category": "Mid Sequence"},
+        {"level": 5, "title": "Winner", "category": "Mid Sequence"},
+        {"level": 4, "title": "Misfortune Mage", "category": "Saint"},
+        {"level": 3, "title": "Chaoswalker", "category": "Saint"},
+        {"level": 2, "title": "Soothsayer", "category": "Angel"},
+        {"level": 1, "title": "Snake of Mercury", "category": "Angel"},
+        {"level": 0, "title": "Wheel of Fortune", "category": "True God"},
+        {"level": -1, "title": "Key of Light", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Planter Pathway",
+      "sequences": [
+        {"level": 9, "title": "Planter", "category": "Low Sequence"},
+        {"level": 8, "title": "Doctor", "category": "Low Sequence"},
+        {"level": 7, "title": "Harvest Priest", "category": "Mid Sequence"},
+        {"level": 6, "title": "Biologist", "category": "Mid Sequence"},
+        {"level": 5, "title": "Druid", "category": "Mid Sequence"},
+        {"level": 4, "title": "Ancient Alchemist", "category": "Saint"},
+        {"level": 3, "title": "Pallbearer", "category": "Saint"},
+        {"level": 2, "title": "Desolate Matriarch", "category": "Angel"},
+        {"level": 1, "title": "Naturewalker", "category": "Angel"},
+        {"level": 0, "title": "Mother", "category": "True God"},
+        {"level": -1, "title": "Goddess of Origin", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Apothecary Pathway",
+      "sequences": [
+        {"level": 9, "title": "Apothecary", "category": "Low Sequence"},
+        {"level": 8, "title": "Beast Tamer", "category": "Low Sequence"},
+        {"level": 7, "title": "Vampire", "category": "Mid Sequence"},
+        {"level": 6, "title": "Potions Professor", "category": "Mid Sequence"},
+        {"level": 5, "title": "Scarlet Scholar", "category": "Mid Sequence"},
+        {"level": 4, "title": "Shaman King", "category": "Saint"},
+        {"level": 3, "title": "High Summoner", "category": "Saint"},
+        {"level": 2, "title": "Life-Giver", "category": "Angel"},
+        {"level": 1, "title": "Beauty Goddess", "category": "Angel"},
+        {"level": 0, "title": "Moon", "category": "True God"},
+        {"level": -1, "title": "Goddess of Origin", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Criminal Pathway",
+      "sequences": [
+        {"level": 9, "title": "Criminal", "category": "Low Sequence"},
+        {"level": 8, "title": "Unwinged Angel", "category": "Low Sequence"},
+        {"level": 7, "title": "Serial Killer", "category": "Mid Sequence"},
+        {"level": 6, "title": "Devil", "category": "Mid Sequence"},
+        {"level": 5, "title": "Desire Apostle", "category": "Mid Sequence"},
+        {"level": 4, "title": "Demon", "category": "Saint"},
+        {"level": 3, "title": "Blatherer", "category": "Saint"},
+        {"level": 2, "title": "Bloody Archduke", "category": "Angel"},
+        {"level": 1, "title": "Filthy Monarch", "category": "Angel"},
+        {"level": 0, "title": "Abyss", "category": "True God"},
+        {"level": -1, "title": "Father of Devils", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Prisoner Pathway",
+      "sequences": [
+        {"level": 9, "title": "Prisoner", "category": "Low Sequence"},
+        {"level": 8, "title": "Lunatic", "category": "Low Sequence"},
+        {"level": 7, "title": "Werewolf", "category": "Mid Sequence"},
+        {"level": 6, "title": "Zombie", "category": "Mid Sequence"},
+        {"level": 5, "title": "Wraith", "category": "Mid Sequence"},
+        {"level": 4, "title": "Puppet", "category": "Saint"},
+        {"level": 3, "title": "Disciple of Silence", "category": "Saint"},
+        {"level": 2, "title": "Ancient Bane", "category": "Angel"},
+        {"level": 1, "title": "Abomination", "category": "Angel"},
+        {"level": 0, "title": "Chained", "category": "True God"},
+        {"level": -1, "title": "Father of Devils", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Lawyer Pathway",
+      "sequences": [
+        {"level": 9, "title": "Lawyer", "category": "Low Sequence"},
+        {"level": 8, "title": "Barbarian", "category": "Low Sequence"},
+        {"level": 7, "title": "Briber", "category": "Mid Sequence"},
+        {"level": 6, "title": "Baron of Corruption", "category": "Mid Sequence"},
+        {"level": 5, "title": "Mentor of Disorder", "category": "Mid Sequence"},
+        {"level": 4, "title": "Earl of the Fallen", "category": "Saint"},
+        {"level": 3, "title": "Frenzied Mage", "category": "Saint"},
+        {"level": 2, "title": "Duke of Entropy", "category": "Angel"},
+        {"level": 1, "title": "Prince of Abolition", "category": "Angel"},
+        {"level": 0, "title": "Black Emperor", "category": "True God"},
+        {"level": -1, "title": "The Anarchy", "category": "Great Old One"}
+      ]
+    },
+    {
+      "name": "Arbiter Pathway",
+      "sequences": [
+        {"level": 9, "title": "Arbiter", "category": "Low Sequence"},
+        {"level": 8, "title": "Sheriff", "category": "Low Sequence"},
+        {"level": 7, "title": "Interrogator", "category": "Mid Sequence"},
+        {"level": 6, "title": "Judge", "category": "Mid Sequence"},
+        {"level": 5, "title": "Disciplinary Paladin", "category": "Mid Sequence"},
+        {"level": 4, "title": "Imperative Mage", "category": "Saint"},
+        {"level": 3, "title": "Chaos Hunter", "category": "Saint"},
+        {"level": 2, "title": "Balancer", "category": "Angel"},
+        {"level": 1, "title": "Hand of Order", "category": "Angel"},
+        {"level": 0, "title": "Justiciar", "category": "True God"},
+        {"level": -1, "title": "The Anarchy", "category": "Great Old One"}
+      ]
+    }
+  ]
+}
