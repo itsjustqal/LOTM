@@ -1,4 +1,4 @@
-Character Name,Pathway,Sequence,Potion Name,Chapter
+Name,Pathway,Sequence,Name,Chapter
 Klein Moretti,Fool,9,Seer,32
 Klein Moretti,Fool,8,Clown,168
 Klein Moretti,Fool,7,Magician,295
@@ -52,5 +52,6 @@ Xio Derecha,Justiciar,7,Interrogator,950
 Xio Derecha,Justiciar,6,Judge,1112
 Xio Derecha,Justiciar,5,Disciplinary Paladin,1216
 Xio Derecha,Justiciar,4,Imperative Mage,1389
+
 
 
