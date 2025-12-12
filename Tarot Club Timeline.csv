@@ -9,7 +9,7 @@ Klein Moretti,Fool,3,Scholar of Yore,1138
 Klein Moretti,Fool,2,Miracle Invoker,1268
 Klein Moretti,Fool,1,Attendant of Mysteries,1352
 Klein Moretti,Fool,0,Fool,1380
-Klein Moretti,Fool,Above the Sequence,Lord of Mysteries,1387
+Klein Moretti,Fool,-1,Lord of Mysteries,1387
 Audrey Hall,Visionary,9,Spectator,41
 Audrey Hall,Visionary,8,Telepathist,221
 Audrey Hall,Visionary,7,Pychiatrist,519
@@ -52,4 +52,5 @@ Xio Derecha,Justiciar,7,Interrogator,950
 Xio Derecha,Justiciar,6,Judge,1112
 Xio Derecha,Justiciar,5,Disciplinary Paladin,1216
 Xio Derecha,Justiciar,4,Imperative Mage,1389
+
 
